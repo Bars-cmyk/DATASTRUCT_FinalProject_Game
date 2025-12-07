@@ -23,5 +23,5 @@ This game was created for academic purposes as part of our final requirement in 
 - 🎬 Animated enemy movement and death effects
 - 🧠 Event-driven wave progression
 - 🖱️ Interactive UI with wave control
-- ⚠️ Game Over popup when base is destroyed
+
 
